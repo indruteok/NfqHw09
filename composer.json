@@ -1,0 +1,21 @@
+{
+  "name": "nfq/opp",
+  "description": "Home work project",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Indre Rakstele",
+      "email": "indruteok@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.9",
+    "squizlabs/php_codesniffer": "3.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "NfqHw09\\": "src/"
+    }
+  }
+}
+
